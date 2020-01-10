@@ -39,10 +39,14 @@ function Dashboard(props) {
       <div className="body-weight-entry">
         <h1>Body Weight Entries</h1>
       {props.userData.map(entry => (
-        <div key={entry.id}>
-          <h1>{entry.created_at.slice(0, 10)}</h1>
-          <h2>{entry.user_weight}</h2>
-          <label name="userdata" id={entry.id} onClick={handleEdit}>Edit</label>
+        <div className="body-container" key={entry.id}>
+          <div className="body-card">
+            <div className="body-items">
+              <p>{entry.created_at.slice(0, 10)}</p>
+              <p><span>Weight: </span> {entry.user_weight}</p>
+              <label name="userdata" id={entry.id} onClick={handleEdit}>Edit</label>
+            </div>
+          </div>
         </div>
       ))}
       </div>
