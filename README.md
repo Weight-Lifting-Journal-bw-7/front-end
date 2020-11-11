@@ -11,7 +11,7 @@ Future plans for this project include: Implementing my own backend API to power 
 
 <img align="center" src=https://user-images.githubusercontent.com/57102880/98874564-7e4aab00-2448-11eb-9d43-c7e2d2029224.png width="600" height="350">
 
-## Frameworks/Libraries/Technologies Used:
+## Technologies Used:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 [<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][github]
