@@ -5,7 +5,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-Weight Lifting Journal is a web application for keeping track of a workout routine. This project was a collaborative effort between of a team of 5 cross-functional developers, completed in 1 week. The application was created using React, React Router, and vanilla CSS.I (Adam Monast) was personally responsible for implementing sign-in/sign up forms and functionality, and styling the entire project. 
+Weight Lifting Journal is a web application for keeping track of a workout routine. This project was a collaborative effort between of a team of 5 cross-functional developers, completed in 1 week. The application was created using React, React Router, and vanilla CSS. I (Adam Monast) was personally responsible for implementing sign-in/sign up forms and functionality, and styling the entire project. 
 
 Future plans for this project include: Implementing my own backend API to power the app (I do not have access to the current one), implementing a better state management system using Redux, and fixing styling issues the deployed site is experiecing. Thank you for viewing this project and all feedback is appreciated!
 
